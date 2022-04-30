@@ -34,17 +34,13 @@ Modify vmx.c and cpuid.c as per as the requirement.
 
 * cpuid -l 0x4FFFFFFE
 ![Alt text](https://github.com/nisrika1/linux/blob/c5250267f7bc300a6cf9af30f0f6b9e468400fc2/cmpe283/Assignment3/output/ASSIGNMENT%203%20IMAGE%201.png "Optional title")
-
 ![Alt text](https://github.com/nisrika1/linux/blob/c5250267f7bc300a6cf9af30f0f6b9e468400fc2/cmpe283/Assignment3/output/ASSIGNMENT%203%20IMAGE%202.png "Optional title")
-
 ![Alt text](https://github.com/nisrika1/linux/blob/c5250267f7bc300a6cf9af30f0f6b9e468400fc2/cmpe283/Assignment3/output/ASSIGNMENT%203%20IMAGE3.png "Optional title")
 
 * cpuid -l 0x4FFFFFFC s -32
 
 ![Alt text](https://github.com/nisrika1/linux/blob/c5250267f7bc300a6cf9af30f0f6b9e468400fc2/cmpe283/Assignment3/output/ASSIGNMENT%203%20IMAGE%204.png "Optional title")
-
 ![Alt text](https://github.com/nisrika1/linux/blob/c5250267f7bc300a6cf9af30f0f6b9e468400fc2/cmpe283/Assignment3/output/ASSIGNMENT%203%20IMAGE%205.png "Optional title")
-
 ![Alt text](https://github.com/nisrika1/linux/blob/c5250267f7bc300a6cf9af30f0f6b9e468400fc2/cmpe283/Assignment3/output/ASSIGNMENT%203%20IMAGE%206.png "Optional title")
 
 ### Questions
