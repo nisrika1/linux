@@ -22,21 +22,21 @@
  ## 2) Output screenshots: 
 ###  Nested Paging 
 ### Before reboot 
-![alt text](https://github.com/sarat458/linux/blob/bd5e0f92cc34fd6a4f3685ad6a9149f5d8b8d781/cmpe283/Assignment4/output/ass4-1.png "img1")
-![alt text](https://github.com/sarat458/linux/blob/bd5e0f92cc34fd6a4f3685ad6a9149f5d8b8d781/cmpe283/Assignment4/output/ass4-2.png "img2")
+![alt text](https://github.com/nisrika1/linux/blob/8067ce65139ff2c3baa5a316d0d3a24502b14a76/cmpe283/Assignment4/outputfiles/ass4-1.png "img1")
+![alt text](https://github.com/nisrika1/linux/blob/8067ce65139ff2c3baa5a316d0d3a24502b14a76/cmpe283/Assignment4/outputfiles/ass4-2.png "img2")
 
 ### After reboot 
-![alt text](https://github.com/sarat458/linux/blob/bd5e0f92cc34fd6a4f3685ad6a9149f5d8b8d781/cmpe283/Assignment4/output/ass4-3.png "img3")
-![alt text](https://github.com/sarat458/linux/blob/bd5e0f92cc34fd6a4f3685ad6a9149f5d8b8d781/cmpe283/Assignment4/output/ass4-4.png "img4")
+![alt text](https://github.com/nisrika1/linux/blob/8067ce65139ff2c3baa5a316d0d3a24502b14a76/cmpe283/Assignment4/outputfiles/ass4-3.png "img3")
+![alt text](https://github.com/nisrika1/linux/blob/8067ce65139ff2c3baa5a316d0d3a24502b14a76/cmpe283/Assignment4/outputfiles/ass4-4.png "img4")
 
 ### Shadow Paging 
 ### Before reboot 
-![alt text](https://github.com/sarat458/linux/blob/bd5e0f92cc34fd6a4f3685ad6a9149f5d8b8d781/cmpe283/Assignment4/output/ass4-6.png "img6")
-![alt text](https://github.com/sarat458/linux/blob/bd5e0f92cc34fd6a4f3685ad6a9149f5d8b8d781/cmpe283/Assignment4/output/ass4-7.png "img7")
+![alt text](https://github.com/nisrika1/linux/blob/8067ce65139ff2c3baa5a316d0d3a24502b14a76/cmpe283/Assignment4/outputfiles/ass4-6.png "img6")
+![alt text](https://github.com/nisrika1/linux/blob/8067ce65139ff2c3baa5a316d0d3a24502b14a76/cmpe283/Assignment4/outputfiles/ass4-7.png "img7")
 
 ### After reboot 
-![alt text](https://github.com/sarat458/linux/blob/bd5e0f92cc34fd6a4f3685ad6a9149f5d8b8d781/cmpe283/Assignment4/output/ass4-8.png "img8")
-![alt text](https://github.com/sarat458/linux/blob/bd5e0f92cc34fd6a4f3685ad6a9149f5d8b8d781/cmpe283/Assignment4/output/ass4-9.png "img9")
+![alt text](https://github.com/nisrika1/linux/blob/8067ce65139ff2c3baa5a316d0d3a24502b14a76/cmpe283/Assignment4/outputfiles/ass4-8.png "img8")
+![alt text](https://github.com/nisrika1/linux/blob/8067ce65139ff2c3baa5a316d0d3a24502b14a76/cmpe283/Assignment4/outputfiles/ass4-9.png "img9")
  
  
 ##  3)What did you learn from the count of exits? Was the count what you expected? If not, why not? 
